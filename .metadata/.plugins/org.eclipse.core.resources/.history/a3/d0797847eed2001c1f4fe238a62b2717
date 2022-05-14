@@ -1,0 +1,5 @@
+package com.algodomain.shoppingcart.services;
+
+public class ProductServiceImpl {
+
+}

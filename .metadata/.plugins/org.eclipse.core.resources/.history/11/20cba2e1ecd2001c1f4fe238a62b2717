@@ -1,0 +1,11 @@
+package com.algodomain.shoppingcart.entity;
+
+public class Product {
+
+	private long productId;
+	private String name;
+	private String category;
+	private double minPrice;
+	private double maxPrice;
+	
+}

@@ -1,0 +1,5 @@
+package com.algodomain.shoppingcart.repository;
+
+public interface ProductRepository {
+
+}
